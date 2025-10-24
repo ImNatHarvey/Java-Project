@@ -1,1 +1,3 @@
+# Java School Repository
+
 This repository serves as a personal archive of my Java programming journey throughout my school year. It contains a diverse collection of projects, lab exercises, assignments, and task performances from various subjects. Each folder represents a distinct Eclipse project, showcasing my solutions to different problems and my exploration of topics such as Object-Oriented Programming, Data Structures, Algorithms, and GUI development with Java.
